@@ -1,14 +1,18 @@
 package org.example;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class App {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        int a = scan.nextInt();
-        int b = scan.nextInt();
-        int c = scan.nextInt();
+        // int a = scan.nextInt();
+        // int b = scan.nextInt();
+        // int c = scan.nextInt();
+        // scan.close();
+        int a = 1;
+        int b = 2;
+        int c = 3;
 
         System.out.println(a);
         System.out.println(b);
